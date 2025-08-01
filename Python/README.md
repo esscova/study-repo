@@ -1,8 +1,5 @@
-# Python
+<p align=center><img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png'/></p>
 
-Bem-vindo! Este repositório é destinado a iniciantes que desejam aprender e praticar a linguagem de programação Python.
-
-## Sobre Python
 
 Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. Criada por Guido van Rossum e lançada pela primeira vez em 1991, Python foi projetada com ênfase na legibilidade do código e na sintaxe que permite aos programadores expressar conceitos em menos linhas de código.
 
@@ -43,3 +40,7 @@ Python é amplamente utilizado em diversas áreas, incluindo:
 - [Real Python](https://realpython.com/)
 - [Python.org - Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 
+### Exercícios
+- [001 - Crie um programa que receba dois números inteiros e imprima a soma deles.](./exercicios/001.py)
+
+### Desafios
