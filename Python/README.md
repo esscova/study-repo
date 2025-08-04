@@ -42,5 +42,8 @@ Python é amplamente utilizado em diversas áreas, incluindo:
 
 ### Exercícios
 - [001 - Crie um programa que receba dois números inteiros e imprima a soma deles.](./exercicios/001.py)
+- [002 - Faça um programa que leia um número e diga se ele é par ou ímpar.](./exercicios/002.py)
+- [003 - Crie um algoritmo que leia a idade de uma pessoa e informe se ela é maior de idade (18 anos ou mais).](.exercicios/003.py)
+- [004 - Faça um programa que leia uma lista de 5 números, armazene-os em uma lista e, em seguida, mostre-os em ordem inversa.](./exercicios/004.py)
 
 ### Desafios
