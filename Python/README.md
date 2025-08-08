@@ -1,49 +1,77 @@
-<p align=center><img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png'/></p>
 
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="220" alt="Logo Python">
+</p>
 
-Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. Criada por Guido van Rossum e lançada pela primeira vez em 1991, Python foi projetada com ênfase na legibilidade do código e na sintaxe que permite aos programadores expressar conceitos em menos linhas de código.
+<h1 align="center">Python para Todos</h1>
 
-### Aplicações de Python
+> Repositório introdutório com exercícios em Python para quem está dando os primeiros passos na linguagem.
 
-Python é amplamente utilizado em diversas áreas, incluindo:
+---
 
-- Desenvolvimento Web (Django, Flask)
-- Análise de Dados e Machine Learning (Pandas, NumPy, Scikit-learn)
-- Automação e Scripting
-- Desenvolvimento de Jogos (Pygame)
-- Computação Científica
-- Inteligência Artificial (TensorFlow, Keras)
+## Sobre
+Python é uma linguagem de alto nível, interpretada e de propósito geral. Criada por **Guido van Rossum** e lançada em 1991, foi projetada para priorizar **legibilidade** e **produtividade**, permitindo que desenvolvedores expressem conceitos em menos linhas de código.
 
-### Casos Reais de Uso
+---
 
-- **Instagram**: Utiliza Django, um framework web escrito em Python.
-- **Google**: Usa Python para diversas aplicações, incluindo raspagem de dados e automação.
-- **Netflix**: Utiliza Python para análise de dados e recomendação de conteúdo.
-- **Spotify**: Usa Python para análise de dados e back-end de serviços.
+## Aplicações de Python
+- 🌐 Desenvolvimento Web *(Django, Flask, FastAPI)*  
+- 📊 Análise de Dados & Machine Learning *(Pandas, NumPy, Scikit-learn, TensorFlow)*  
+- 🤖 Automação & Scripting  
+- 🎮 Desenvolvimento de Jogos *(Pygame)*  
+- 🔬 Computação Científica  
+- 🧠 Inteligência Artificial *(Keras, PyTorch)*
+
+---
+
+## Casos Reais de Uso
+| Empresa    | Como Usa Python |
+|------------|-----------------|
+| **Instagram** | Backend com Django |
+| **Google**    | Raspagem, automação & análise |
+| **Netflix**   | Recomendação de conteúdo |
+| **Spotify**   | Back-end de serviços & dados |
+
+---
 
 ## Recursos para Aprendizado
+### 📚 Cursos Gratuitos
+- [Curso em Vídeo – Python 3](https://www.cursoemvideo.com/course/python-3-mundo-1/)  
+- [Coursera – Python for Everybody](https://www.coursera.org/specializations/python)  
+- [edX – Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)  
+- [Data Science Academy – Fundamentos de Python](https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
 
-### Cursos Gratuitos
+### 📖 Documentação & Materiais
+- [Documentação Oficial](https://docs.python.org/3/)  
+- [W3Schools – Python Tutorial](https://www.w3schools.com/python/)  
+- [Real Python](https://realpython.com/)  
+- [Python.org – Beginner’s Guide](https://wiki.python.org/moin/BeginnersGuide)
 
-- [Curso em Vídeo - Python 3](https://www.cursoemvideo.com/course/python-3-mundo-1/)
-- [Coursera - Python for Everybody](https://www.coursera.org/specializations/python)
-- [edX - Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)
-- [DSA - Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
+---
 
-### Documentação Oficial
+## Exercícios
+| # | Descrição |
+|--|-----------|
+| [001](./exercicios/001.py) | Soma de dois números inteiros |
+| [002](./exercicios/002.py) | Par ou ímpar |
+| [003](./exercicios/003.py) | Maioridade (18+) |
+| [004](./exercicios/004.py) | Lista invertida de 5 números |
+| [005](./exercicios/005.py) | Fatorial de um número |
+| [006](./exercicios/006.py) | Contagem de positivos entre 10 números |
+| [007](./exercicios/007.py) | Teste de número primo |
+| [008](./exercicios/008.py) | Contador de vogais |
+| [009](./exercicios/009.py) | Sequência de Fibonacci até o n-ésimo termo |
+| [010](./exercicios/010.py) | Aluno com maior nota |
 
-- [Documentação Oficial do Python](https://docs.python.org/3/)
+---
 
-### Materiais Online
+## Desafios
+```bash
+em construção
+```
 
-- [W3Schools - Python Tutorial](https://www.w3schools.com/python/)
-- [Real Python](https://realpython.com/)
-- [Python.org - Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+---
 
-### Exercícios
-- [001 - Crie um programa que receba dois números inteiros e imprima a soma deles.](./exercicios/001.py)
-- [002 - Faça um programa que leia um número e diga se ele é par ou ímpar.](./exercicios/002.py)
-- [003 - Crie um algoritmo que leia a idade de uma pessoa e informe se ela é maior de idade (18 anos ou mais).](.exercicios/003.py)
-- [004 - Faça um programa que leia uma lista de 5 números, armazene-os em uma lista e, em seguida, mostre-os em ordem inversa.](./exercicios/004.py)
-
-### Desafios
+<p align="center">
+  Feito por <a href='https://www.linkedin.com/in/wellington-moreira-santos/'>Wellington M Santos</a> para comunidade 🐍.
+</p>
