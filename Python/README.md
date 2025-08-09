@@ -66,9 +66,20 @@ Python é uma linguagem de alto nível, interpretada e de propósito geral. Cria
 ---
 
 ## Desafios
-```bash
-em construção
-```
+| # | Descrição |
+|--|-----------|
+| [001](./desafios/d001.py) | Análise de Vendas com Dicionários e Funções |
+| [002](./desafios/d002.py) | Limpeza e Validação de Dataset |
+| [003](./desafios/d003.py) | Sistema de ETL Simples |
+| [004](./desafios/d004.py) | Análise de Séries Temporais Básica |
+| [005](./desafios/d005.py) | Agrupamento e Agregação de Dados |
+| [006](./desafios/d006.py) | Detecção de Anomalias em Dados |
+| [007](./desafios/d007.py) | Sistema de Recomendação Simples |
+| [008](./desafios/d008.py) | Processamento de Logs e Métricas |
+| [009](./desafios/d009.py) | Otimização de Estoque com Classes |
+| [010](./desafios/d010.py) | Pipeline de Qualidade de Dados |
+
+[Enunciado detalhado dos desafios aqui.](./desafios/desafios.md)
 
 ---
 
