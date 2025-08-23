@@ -1,88 +1,57 @@
+# Python Studies
 
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" width="220" alt="Logo Python">
-</p>
-
-<h1 align="center">Python para Todos</h1>
-
-> Repositório introdutório com exercícios em Python para quem está dando os primeiros passos na linguagem.
-
----
+Repositório com exercícios e desafios em Python para aprendizado inicial.
 
 ## Sobre
-Python é uma linguagem de alto nível, interpretada e de propósito geral. Criada por **Guido van Rossum** e lançada em 1991, foi projetada para priorizar **legibilidade** e **produtividade**, permitindo que desenvolvedores expressem conceitos em menos linhas de código.
 
----
+Este repositório contém meus estudos em Python, uma linguagem de alto nível, interpretada e de propósito geral, criada por Guido van Rossum em 1991. O foco é em legibilidade e produtividade.
 
-## Aplicações de Python
-- 🌐 Desenvolvimento Web *(Django, Flask, FastAPI)*  
-- 📊 Análise de Dados & Machine Learning *(Pandas, NumPy, Scikit-learn, TensorFlow)*  
-- 🤖 Automação & Scripting  
-- 🎮 Desenvolvimento de Jogos *(Pygame)*  
-- 🔬 Computação Científica  
-- 🧠 Inteligência Artificial *(Keras, PyTorch)*
+## Estrutura
 
----
+- **`exercicios/`**: Scripts básicos para prática de conceitos fundamentais.
+- **`exercicios/exercicios.md`**: Descrição detalhada dos exercicios.
+- **`desafios/`**: Projetos mais complexos para aplicação de Python.
+- **`desafios/desafios.md`**: Descrição detalhada dos desafios.
 
-## Casos Reais de Uso
-| Empresa    | Como Usa Python |
-|------------|-----------------|
-| **Instagram** | Backend com Django |
-| **Google**    | Raspagem, automação & análise |
-| **Netflix**   | Recomendação de conteúdo |
-| **Spotify**   | Back-end de serviços & dados |
+## Conteúdo
 
----
+### Exercícios
+- 001: Soma de dois números inteiros
+- 002: Verificar par ou ímpar
+- 003: Checar maioridade (18+)
+- 004: Inverter lista de 5 números
+- 005: Calcular fatorial
+- 006: Contar positivos entre 10 números
+- 007: Testar número primo
+- 008: Contar vogais
+- 009: Sequência de Fibonacci
+- 010: Identificar aluno com maior nota
 
-## Recursos para Aprendizado
-### 📚 Cursos Gratuitos
-- [Curso em Vídeo – Python 3](https://www.cursoemvideo.com/course/python-3-mundo-1/)  
-- [Coursera – Python for Everybody](https://www.coursera.org/specializations/python)  
-- [edX – Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)  
-- [Data Science Academy – Fundamentos de Python](https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)
+### Desafios
+- d001: Análise de vendas com dicionários
+- d002: Limpeza e validação de dataset
+- d003: Sistema de ETL simples
+- d004: Análise de séries temporais
+- d005: Agrupamento e agregação de dados
+- d006: Detecção de anomalias
+- d007: Sistema de recomendação
+- d008: Processamento de logs
+- d009: Otimização de estoque com classes
+- d010: Pipeline de qualidade de dados
 
-### 📖 Documentação & Materiais
-- [Documentação Oficial](https://docs.python.org/3/)  
-- [W3Schools – Python Tutorial](https://www.w3schools.com/python/)  
-- [Real Python](https://realpython.com/)  
+## Como Usar
+
+1. Navegue pelas pastas `exercicios/` e `desafios/`.
+2. Execute os scripts com Python 3 (`python nome_do_arquivo.py`).
+3. Consulte `desafios/desafios.md` para detalhes dos desafios.
+
+## Recursos
+
+- [Documentação Oficial](https://docs.python.org/3/)
 - [Python.org – Beginner’s Guide](https://wiki.python.org/moin/BeginnersGuide)
+- [W3Schools – Python Tutorial](https://www.w3schools.com/python/)
+- [Real Python](https://realpython.com/)
 
----
+## Autor
 
-## Exercícios
-| # | Descrição |
-|--|-----------|
-| [001](./exercicios/001.py) | Soma de dois números inteiros |
-| [002](./exercicios/002.py) | Par ou ímpar |
-| [003](./exercicios/003.py) | Maioridade (18+) |
-| [004](./exercicios/004.py) | Lista invertida de 5 números |
-| [005](./exercicios/005.py) | Fatorial de um número |
-| [006](./exercicios/006.py) | Contagem de positivos entre 10 números |
-| [007](./exercicios/007.py) | Teste de número primo |
-| [008](./exercicios/008.py) | Contador de vogais |
-| [009](./exercicios/009.py) | Sequência de Fibonacci até o n-ésimo termo |
-| [010](./exercicios/010.py) | Aluno com maior nota |
-
----
-
-## Desafios
-| # | Descrição |
-|--|-----------|
-| [001](./desafios/d001.py) | Análise de Vendas com Dicionários e Funções |
-| [002](./desafios/d002.py) | Limpeza e Validação de Dataset |
-| [003](./desafios/d003.py) | Sistema de ETL Simples |
-| [004](./desafios/d004.py) | Análise de Séries Temporais Básica |
-| [005](./desafios/d005.py) | Agrupamento e Agregação de Dados |
-| [006](./desafios/d006.py) | Detecção de Anomalias em Dados |
-| [007](./desafios/d007.py) | Sistema de Recomendação Simples |
-| [008](./desafios/d008.py) | Processamento de Logs e Métricas |
-| [009](./desafios/d009.py) | Otimização de Estoque com Classes |
-| [010](./desafios/d010.py) | Pipeline de Qualidade de Dados |
-
-[Enunciado detalhado dos desafios aqui.](./desafios/desafios.md)
-
----
-
-<p align="center">
-  Feito por <a href='https://www.linkedin.com/in/wellington-moreira-santos/'>Wellington M Santos</a> para comunidade 🐍.
-</p>
+[Wellington M. Santos](https://www.linkedin.com/in/wellington-moreira-santos/)
