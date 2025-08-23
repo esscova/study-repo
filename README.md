@@ -1,8 +1,8 @@
-# StudyHub
-Respositório para meus estudos em programação: Java, Python, R e SQL.
+<!-- <p align=center><img src='https://fernandogiannini.com.br/wp-content/uploads/2022/11/2db41b_3795d9bd8066409380fdbf6d1c502b76_mv2-1.gif'/></p>
+-->
 
-![](https://fernandogiannini.com.br/wp-content/uploads/2022/11/2db41b_3795d9bd8066409380fdbf6d1c502b76_mv2-1.gif)
-Este repositório é um espaço pessoal de registro e organização dos meus constantes estudos em tecnologia e dados. 
+# StudyRepo
+Respositório para meus estudos em programação: Java, Python, R e SQL.
 
 ## ESTRUTURA
 - `Java/`: Exercícios e projetos em Java (básico, intermediário e aplicações).
@@ -14,7 +14,6 @@ Este repositório é um espaço pessoal de registro e organização dos meus con
 Organizar meus estudos e projetos em um único lugar para aprendizado contínuo e consulta rápida.
 
 ## COMO USAR
-
 1. Navegue pelas pastas de cada linguagem.
 2. Cada subpasta contém exercícios ou projetos com descrições específicas (veja os READMEs locais).
 3. Use os códigos como referência ou ponto de partida para estudos.
