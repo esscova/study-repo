@@ -5,7 +5,7 @@ Repositório com exercícios em Java para acompanhar meu aprendizado na linguage
 ## Estrutura
 
 - **`exercicios/`**: Programas para prática de conceitos em Java.
-- **`exercicios/exercicios.md`**: Descrição completa dos exercícios em Java.
+- **`exercicios/e000.md`**: Descrição completa dos exercícios em Java.
 - **`README.md`**: Descrição do repositório e instruções.
 
 ## Conteúdo
