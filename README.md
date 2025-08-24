@@ -17,3 +17,6 @@ Organizar meus estudos e projetos em um único lugar para aprendizado contínuo 
 1. Navegue pelas pastas de cada linguagem.
 2. Cada subpasta contém exercícios ou projetos com descrições específicas (veja os READMEs locais).
 3. Use os códigos como referência ou ponto de partida para estudos.
+
+## AUTOR
+[Wellington M Santos](https://www.linkedin.com/in/wellington-moreira-santos/)
