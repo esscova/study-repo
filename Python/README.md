@@ -9,23 +9,23 @@ Este repositório contém meus estudos em Python, uma linguagem de alto nível, 
 ## Estrutura
 
 - **`exercicios/`**: Scripts básicos para prática de conceitos fundamentais.
-- **`exercicios/exercicios.md`**: Descrição detalhada dos exercicios.
+- **`exercicios/e000.md`**: Descrição detalhada dos exercicios.
 - **`desafios/`**: Projetos mais complexos para aplicação de Python.
-- **`desafios/desafios.md`**: Descrição detalhada dos desafios.
+- **`desafios/d000.md`**: Descrição detalhada dos desafios.
 
 ## Conteúdo
 
 ### Exercícios
-- 001: Soma de dois números inteiros
-- 002: Verificar par ou ímpar
-- 003: Checar maioridade (18+)
-- 004: Inverter lista de 5 números
-- 005: Calcular fatorial
-- 006: Contar positivos entre 10 números
-- 007: Testar número primo
-- 008: Contar vogais
-- 009: Sequência de Fibonacci
-- 010: Identificar aluno com maior nota
+- e001: Soma de dois números inteiros
+- e002: Verificar par ou ímpar
+- e003: Checar maioridade (18+)
+- e004: Inverter lista de 5 números
+- e005: Calcular fatorial
+- e006: Contar positivos entre 10 números
+- e007: Testar número primo
+- e008: Contar vogais
+- e009: Sequência de Fibonacci
+- e010: Identificar aluno com maior nota
 
 ### Desafios
 - d001: Análise de vendas com dicionários
