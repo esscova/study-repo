@@ -38,12 +38,13 @@ Este repositório contém meus estudos em Python, uma linguagem de alto nível, 
 - d008: Processamento de logs
 - d009: Otimização de estoque com classes
 - d010: Pipeline de qualidade de dados
+- d011: Análise Básica de Vendas Mensais
 
 ## Como Usar
 
 1. Navegue pelas pastas `exercicios/` e `desafios/`.
 2. Execute os scripts com Python 3 (`python nome_do_arquivo.py`).
-3. Consulte `desafios/desafios.md` para detalhes dos desafios.
+3. Consulte `desafios/d000.md` para detalhes dos desafios.
 
 ## Recursos
 
