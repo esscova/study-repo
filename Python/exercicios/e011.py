@@ -25,6 +25,8 @@ def gerar_dados(valor_min:int=9000, valor_max=30000) -> list[dict]:
 if __name__ == '__main__':
   vendas_mensais = gerar_dados()
 
+  if not vendas_mensais: logging.error("Erro ao gerar dados")
+
   # total de vendas
   logger.info("Calculando Total em Vendas.")
   total_vendas = sum(item['vendas'] for item in vendas_mensais)
